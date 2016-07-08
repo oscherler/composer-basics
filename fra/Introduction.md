@@ -16,7 +16,7 @@ Mon premier [brouillon en 10 tweets][tweets] (tapés sur mon téléphone en pren
 
 Composer, ça sert à installer les dépendances de ton projet PHP. Au plus simple tu trouves le nom de la dépendance dans le Read Me, e.g. `symfony/var-dumper`, et tu tapes :
 
-	php composer.phar require symfony/var-dumper
+	shell$ php composer.phar require symfony/var-dumper
 	
 Il va créer un fichier `composer.json` qui liste tes dépendances.
 
@@ -41,7 +41,7 @@ Là, je crois que c’est la base de la base. Des questions ?
 
 Les dépendances, c’est le code dont tu as besoin mais que tu ne veux pas récrire toi-même. E.g. pour valider les numéros de téléphone internationaux :
 
-	$ composer require giggsey/libphonenumber-for-php
+	shell$ composer require giggsey/libphonenumber-for-php
 
 puis :
 
