@@ -18,6 +18,8 @@ Une fois téléchargée, on peut tester directement en tapant\* :
 	shell$ php composer.phar --version
 	Composer version 1.2-dev (5979db2e754bbce1190767be4b9c5f1da8df418a) 2016-07-07 09:16:21
 
-Naturellement, la version exacte peut et va changer avec le temps.
+Au moment d’écrire ces lignes, nous avons la version `1.2-dev` du 7 juillet 2016.
+
+
 
 \* Les lignes commençant par `shell$` indiquent l’‘invite de commande’ (*shell prompt* en anglais) dans le terminal, il faut taper ce qui est écrit après le `$`, puis la touche *entrée*. Les autres lignes montrent ce que les commandes exécutées affichent.
